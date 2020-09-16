@@ -1,0 +1,5 @@
+com/evoluum/auth/repository/UserRepository.class
+com/evoluum/auth/AuthServerApplication.class
+com/evoluum/auth/domain/Authorities.class
+com/evoluum/auth/controller/AuthController.class
+com/evoluum/auth/model/User.class

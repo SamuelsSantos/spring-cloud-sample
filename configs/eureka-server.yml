@@ -1,0 +1,23 @@
+server:
+  port: 9091
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+  server:
+    wait-time-in-ms-when-sync-empty: 3000
+
+spring:
+  cloud:
+    loadbalancer:
+      ribbon:
+        enabled: false
+
+# eureka:
+#   instance:
+#     instanceId: ${spring.cloud.client.hostname}:${spring.application.name}:${random.value}

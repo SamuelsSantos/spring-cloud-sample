@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/git/apresentacao" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/demogradle" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/quarkus-camel" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/signer-cms" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/signer-pdf" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/signer-pdf/examples/pdf-websigner-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>

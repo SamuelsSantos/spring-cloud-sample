@@ -1,0 +1,25 @@
+server:
+  port: 9090
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: file://Users/samuelsantos/git/evoluum/configs
+
+
+# spring:
+# application:
+#   name: config-server
+# profiles:
+#   active: native,vault
+# cloud:
+#   config:
+#     server:
+#       native:
+#         searchLocations: classpath:/config-repo
+#       vault:
+#         host: 192.168.99.100
+#         authentication: TOKEN
+#         token: spring-microservices-course

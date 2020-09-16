@@ -1,0 +1,5 @@
+/Users/samuelsantos/git/evoluum/services/auth-server/src/main/java/com/evoluum/auth/AuthServerApplication.java
+/Users/samuelsantos/git/evoluum/services/auth-server/src/main/java/com/evoluum/auth/domain/Authorities.java
+/Users/samuelsantos/git/evoluum/services/auth-server/src/main/java/com/evoluum/auth/model/User.java
+/Users/samuelsantos/git/evoluum/services/auth-server/src/main/java/com/evoluum/auth/controller/AuthController.java
+/Users/samuelsantos/git/evoluum/services/auth-server/src/main/java/com/evoluum/auth/repository/UserRepository.java
